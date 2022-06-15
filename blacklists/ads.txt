@@ -2,3 +2,4 @@
 /ad\./
 /banner\./
 /tracker\./
+/(r|rr)[0-9]{1,2}(\.|-)(-|--)?sn-[0-9a-z]{4,10}(-xhue)?(-nh4.(\.a1)?)?(-25g..?)?\.googlevideo(\.com)?/
